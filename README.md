@@ -31,6 +31,11 @@ Build the assets with Webpack Encore
 
 ```bash
 $ yarn run encore dev
+
+# OR
+
+$ npm run encore dev
+
 # yarn run encore dev --watch to automatically rebuild on every change
 ```
 
