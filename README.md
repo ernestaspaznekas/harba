@@ -1,7 +1,3 @@
-# React starter repo with Symfony 4 and Webpack Encore
-
-This is a Symfony 4 starter repo with React, developed for https://www.modernjsforphpdevs.com/react-symfony-4-starter-repo/
-
 Requirements
 ------------
 
@@ -45,8 +41,7 @@ $ ./bin/console server:start
 # stop it again with ./bin/console server:stop
 ```
 
-Navigate to http://localhost:8000 to see the final result, which should look something like this:
+Navigate to http://localhost:8000 to see the result.
 
-![The final result is three Material Design cards with an author, title and content](./final-result.png "The final result is three Material Design cards with an author, title and content")
 
 [1]: https://symfony.com/doc/current/reference/requirements.html
